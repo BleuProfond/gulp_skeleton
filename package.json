@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BleuProfond/gulp_skeleton.git"
+    "url": "git+https://github.com/PierreDV/gulp_skeleton.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BleuProfond/gulp_skeleton/issues"
+    "url": "https://github.com/PierreDV/gulp_skeleton/issues"
   },
-  "homepage": "https://github.com/BleuProfond/gulp_skeleton#readme",
+  "homepage": "https://github.com/PierreDV/gulp_skeleton#readme",
   "devDependencies": {
     "babel-preset-es2015": "^6.9.0",
     "gulp": "^3.9.1",
